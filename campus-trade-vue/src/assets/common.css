@@ -1,0 +1,15 @@
+.text-ellipsis-1 {
+  display: block;
+  min-width: 0;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.user-page-shell {
+  width: min(1120px, 100%);
+  margin: 0 auto;
+  padding: 4px 0 24px;
+  box-sizing: border-box;
+}

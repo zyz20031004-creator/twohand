@@ -170,25 +170,45 @@ docs/database/init.sql
 
 ## 系统截图
 
-建议将真实运行截图放到 `docs/images/` 目录，并在 README 中展示。推荐截图包括：
+以下截图来自项目实际运行页面，覆盖用户端核心交易流程和后台管理页面。
 
-| 页面 | 建议文件名 | 说明 |
+| 页面 | 截图 | 说明 |
 | --- | --- | --- |
-| 登录注册页 | `docs/images/auth.png` | 展示用户登录、注册入口 |
-| 用户首页 | `docs/images/user-home.png` | 展示热门商品、商品列表 |
-| 商品详情页 | `docs/images/product-detail.png` | 展示商品信息、收藏、购买、举报 |
-| 个人中心 | `docs/images/user-center.png` | 展示个人资料、订单、商品管理 |
-| 后台数据看板 | `docs/images/admin-dashboard.png` | 展示后台统计数据 |
-| 商品管理 | `docs/images/admin-products.png` | 展示商品审核与管理 |
-| 订单管理 | `docs/images/admin-orders.png` | 展示订单列表和状态管理 |
+| 登录注册页 | `docs/images/auth.png` | 用户登录、注册入口 |
+| 用户首页 | `docs/images/user-home.png` | 热门商品、商品列表与首页导航 |
+| 商品详情页 | `docs/images/product-detail.png` | 商品信息、购买入口、收藏与举报 |
+| 个人中心 | `docs/images/user-center.png` | 个人资料、订单、商品和功能入口 |
+| 后台数据看板 | `docs/images/admin-dashboard.png` | 平台核心数据统计与后台入口 |
+| 商品管理 | `docs/images/admin-products.png` | 商品审核、上下架和后台管理 |
+| 订单管理 | `docs/images/admin-orders.png` | 订单列表、状态流转和交易管理 |
 
-截图补充后，可以按下面格式展示：
+### 登录注册页
 
-```md
 ![登录注册页](docs/images/auth.png)
+
+### 用户首页
+
 ![用户首页](docs/images/user-home.png)
+
+### 商品详情页
+
+![商品详情页](docs/images/product-detail.png)
+
+### 个人中心
+
+![个人中心](docs/images/user-center.png)
+
+### 后台数据看板
+
 ![后台数据看板](docs/images/admin-dashboard.png)
-```
+
+### 商品管理
+
+![商品管理](docs/images/admin-products.png)
+
+### 订单管理
+
+![订单管理](docs/images/admin-orders.png)
 
 ## 项目结构
 
